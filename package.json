@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/adavila0329/liriNodeApp/issues"
   },
-  "homepage": "https://github.com/adavila0329/liriNodeApp#readme"
+  "homepage": "https://github.com/adavila0329/liriNodeApp#readme",
+  "dependencies": {
+    "request": "^2.86.0"
+  }
 }
