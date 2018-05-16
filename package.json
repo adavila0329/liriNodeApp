@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/adavila0329/liriNodeApp#readme",
   "dependencies": {
-    "request": "^2.86.0"
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.86.0",
+    "twit": "^2.2.9"
   }
 }

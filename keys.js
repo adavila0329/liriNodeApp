@@ -1,5 +1,5 @@
 // js
-console.log('this is loaded');
+// console.log('this is loaded');
 
 exports.twitter = {
   consumer_key: process.env.vs6ppl6BGZKExbxyGkBdjLUHq,
